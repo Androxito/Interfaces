@@ -1,0 +1,54 @@
+/*Contribuye en la pagina de inicios,Recuperar y Regristro*/
+body{
+    background-color: azure;
+    background-image: url(https://i.pinimg.com/originals/0e/d1/e2/0ed1e28fea99c152eeb3fd8422bbabc6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/*Pagina Inicio*/
+#Diseño{
+    text-align: center;
+    
+    width: 300px;
+    margin-bottom: 200px;
+    border-radius: 4%;
+    margin: auto;
+    height: 300px;
+    border: 1 solid black;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'times new roman';
+}
+/*Pagina de Regristro*/
+#Regristro{
+    
+    text-align: center;
+    
+    width: 300px;
+    margin-bottom: 200px;
+    border-radius: 4%;
+    margin: auto;
+    height: 350px;
+    border: 1 solid black;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'times new roman';
+    color: white;   
+}
+/*Es la clase que se encuantra en pagina de libros*/
+/*Finalizacion de pagina de libros */
+#Recupera{   
+    text-align: center;
+    
+    width: 300px;
+    margin-bottom: 200px;
+    border-radius: 4%;
+    margin: auto;
+    height: 350px;
+    border: 1 solid black;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'times new roman';
+    color: white;
+}
